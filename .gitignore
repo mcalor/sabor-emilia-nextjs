@@ -1,0 +1,22 @@
+# Node and Next.js
+node_modules/
+.next/
+out/
+dist/
+
+# Prisma
+prisma/dev.db
+prisma/migrations/
+
+# Logs
+*.log
+
+# Environment variables (private secrets)
+.env
+.env.local
+.env.development
+.env.production
+
+# System files
+.DS_Store
+Thumbs.db
